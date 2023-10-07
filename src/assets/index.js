@@ -27,7 +27,7 @@ import T2E from "./company/T2E.png";
 import tesla from "./company/tesla.png";
 
 import air from "./airbnb.png";
-import pet247 from "./pet247.png";
+import pet247 from "./Pet247.png";
 import HJA from "./HJA.png";
 import nsmedia from "./company/ns-media.jpg"
 export {
