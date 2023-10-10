@@ -19,7 +19,7 @@ module.exports = {
         xs: "450px",
       },
       backgroundImage: {
-        "hero-pattern": "url('/src/assets/herobg.png')",
+        "hero-pattern": "url('https://images03.nicepagecdn.com/a122014e1e8cdf24af08f98c/b7e0515f99d45a21927d8be2/bg2.jpg')",
       },
     },
   },
