@@ -19,7 +19,7 @@ const Contact = () => {
     setForm({...form ,[name]:value})  
   }
   const handleSubmit = (e) => {
-    e.preentDefault();
+    e.preventDefault();
     setLoading(true);
 //  IkEJQOpqQZJoULhth
 //  template_kbyj0x5
