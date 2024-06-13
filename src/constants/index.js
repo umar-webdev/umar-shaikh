@@ -147,14 +147,14 @@ import {
   ];
   
   const testimonials = [
-    {
-      testimonial:
-        "I thought it was impossible to make a website as beautiful as our product, but he proved me wrong.",
-      name: "Rohit Sharma",
-      designation: "Sr.Developer",
-      company: "Pet247",
-      image: "https://randomuser.me/api/portraits/men/4.jpg",
-    },
+    // {
+    //   testimonial:
+    //     "I thought it was impossible to make a website as beautiful as our product, but he proved me wrong.",
+    //   name: "Rohit Sharma",
+    //   designation: "Sr.Developer",
+    //   company: "Pet247",
+    //   image: "https://randomuser.me/api/portraits/men/4.jpg",
+    // },
     {
       testimonial:
         "I've never met a web developer who truly cares about their clients' success like umar does.",
