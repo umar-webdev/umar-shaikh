@@ -120,7 +120,7 @@ const Card = () => {
       <div>
         <About />
         <button
-          className=" text-text-color-40 mt-4 underline ml-4 px-6 py-2 text-white rounded"
+          className=" text-text-color-40 mt-4 underline ml-4 px-6 py-2 rounded"
           onClick={handleFlip}
         >
           Bored! Let's get back to home
