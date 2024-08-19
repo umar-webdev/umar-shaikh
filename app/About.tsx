@@ -43,7 +43,7 @@ const About: React.FC = () => {
     <>
       <ReactCardFlip isFlipped={isFlipped} flipDirection="horizontal">
         {/* Front Side */}
-        <div className="rounded-3xl max-w-[960px] m-auto border-2 border-text-color-10 bg-text-color-40 text-white flex items-center justify-center">
+        <div className="ml-4 mr-4 rounded-3xl max-w-[960px] border-2 border-text-color-10 bg-text-color-40 text-white flex items-center justify-center">
           <div className="container mx-auto py-10 px-10">
             <div className="flex flex-col md:flex-row justify-between items-center">
               <div className="md:w-1/2 mt-10 md:mt-0">

@@ -49,7 +49,7 @@ const ProjectEcommerce: React.FC = () => {
                   src={logo}
                   alt=""
                 /> */}
-                <h1 className="text-5xl font-Jost pb-12">ECOMMERCE.</h1>
+                <h1 className="text-4xl font-Jost pb-12">ECOMMERCE.</h1>
                 <p className="mt-4 text-sm font-Jost leading-5">
                 In the <Link href="/" className="underline">Ecommerce</Link> platform I developed, I implemented an automated invoice generator that streamlines the billing process. This functionality automatically generates and sends detailed invoices to customers upon purchase, reducing manual errors and saving time. It integrates seamlessly with the order management system to ensure accuracy and consistency in invoicing, while also providing customers with prompt and professional documentation of their transactions
                 </p>

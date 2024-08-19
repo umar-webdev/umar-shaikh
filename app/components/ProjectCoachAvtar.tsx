@@ -45,7 +45,7 @@ const ProjectCoachAvtar: React.FC = () => {
 
             <div className="flex flex-col md:flex-row justify-between items-center">
               <div className="md:w-1/2 mt-10 md:mt-0">
-              <h1 className="text-5xl font-Jost pb-12">COACHAVTAR.</h1>
+              <h1 className="text-4xl font-Jost pb-12">COACHAVTAR.</h1>
                 <p className="mt-4 text-sm font-Jost leading-5">
                 <Link href='https://coachavtar.com' className="underline">CoachAvtar.com</Link> is a platform dedicated to providing personalized coaching and professional development services. It offers a range of coaching programs designed to help individuals and organizations achieve their goals through tailored guidance and expertise. The site features an intuitive design, easy navigation, and comprehensive information on available coaching services, making it accessible and user-friendly for clients seeking growth and improvement in their professional lives.
                 </p>

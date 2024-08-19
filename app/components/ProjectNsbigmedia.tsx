@@ -44,7 +44,7 @@ const ProjectNsbigmedia: React.FC = () => {
 
             <div className="flex flex-col md:flex-row justify-between items-center">
               <div className="md:w-1/2 mt-10 md:mt-0">
-              <h1 className="text-5xl font-Jost pb-12">NSBIGMEDIA.</h1>
+              <h1 className="text-4xl font-Jost pb-12">NSBIGMEDIA.</h1>
                 <p className="mt-4 text-sm font-Jost leading-5">
                 <Link href='/' className="underline ">NSBIGMEDIA PVT LTD</Link> is a dynamic digital agency specializing in innovative web development and digital marketing solutions. With a focus on leveraging the latest technologies and trends, NSBIGMEDIA delivers customized strategies to drive online growth and enhance brand presence. Their team of experts is dedicated to providing exceptional service and results-driven outcomes for clients across various industries.
                 </p>
