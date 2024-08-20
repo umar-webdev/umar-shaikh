@@ -54,7 +54,7 @@ const Card = () => {
                   </a>
                 </li>
                 <li>
-                  <a className="cursor-pointer text-white hover:underline" onClick={handleFlip}>
+                  <a className="cursor-pointer text-text-color-30 hover:text-white " onClick={handleFlip}>
                     About ME
                   </a>
                 </li>
@@ -75,7 +75,7 @@ const Card = () => {
       {/* Back Side (About Component) */}
       <div>
         <About />
-        <button className="text-text-color-40 mt-4 underline ml-4 px-6 py-2 rounded" onClick={handleFlip}>
+        <button className="text-text-color-40 mt-4 underline hover:text-white ml-4 px-6 py-2 rounded" onClick={handleFlip}>
           Bored! Let's get back to home
         </button>
       </div>
