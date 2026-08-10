@@ -1,7 +1,5 @@
 import { useState, useEffect, useRef } from "react";
 import {
-  Github,
-  Linkedin,
   Mail,
   Phone,
   MapPin,
@@ -17,6 +15,7 @@ import {
   Heart,
 } from "lucide-react";
 import readerSticker from "./assets/reader-sticker.png";
+import { FaGithub, FaLinkedin } from "react-icons/fa";
 
 // ---------------------------------------------------------------------------
 // Global counters — no backend required. Keys are unique so they don't
@@ -610,8 +609,8 @@ export default function Portfolio() {
                 className="drop-cap text-lg leading-relaxed"
                 style={{ color: INK }}
               >
-                Three years into the beat, Mr. Shaikh has made a habit of owning the
-                whole front end, architecture, state, performance, and the
+                Three years into the beat, Mr. Shaikh has made a habit of owning
+                the whole front end, architecture, state, performance, and the
                 deploy pipeline underneath it, across SaaS, healthcare, and
                 full-stack builds. Sources close to his GitHub describe a
                 developer who reaches for React, Next.js and TypeScript by
@@ -1179,7 +1178,7 @@ export default function Portfolio() {
                     className="flex items-center gap-2 fg-link"
                     style={{ color: INK }}
                   >
-                    <Linkedin size={14} /> linkedin.com/in/umar-shaikh
+                    <FaLinkedin size={14} /> linkedin.com/in/umar-shaikh
                   </a>
                   <a
                     href="https://github.com/umar-webdev"
@@ -1188,7 +1187,7 @@ export default function Portfolio() {
                     className="flex items-center gap-2 fg-link"
                     style={{ color: INK }}
                   >
-                    <Github size={14} /> github.com/umar-webdev
+                    <FaGithub size={14} /> github.com/umar-webdev
                   </a>
                   <a
                     href="https://umar-shaikh.vercel.app"
